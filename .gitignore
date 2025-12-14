@@ -208,4 +208,6 @@ __marimo__/
 
 
 dataset/*.csv
+dataset/fedez_fibra
 *.bin
+*.pkl
