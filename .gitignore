@@ -211,3 +211,5 @@ dataset/*.csv
 dataset/fedez_fibra
 *.bin
 *.pkl
+processed_audio_data/*
+processed_data
